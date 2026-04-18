@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Painel Lifemed -->
+    <color name="lifemed_panel">#2C3E50</color>
+    <color name="lifemed_lcd_bg">#A9DFBF</color>
+    <color name="lifemed_lcd_text">#1B2631</color>
+
+    <!-- Botões de Ação -->
+    <color name="lifemed_start">#27AE60</color>
+    <color name="lifemed_stop">#C0392B</color>
+    <color name="lifemed_button_bg">#5D6D7E</color>
+</resources>
